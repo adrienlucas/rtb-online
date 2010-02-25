@@ -1,0 +1,24 @@
+Spécs:
+	Les utilisateurs jouent.
+		*Inscription légére (pseudo + email + password).
+		*Loggin in (pseudo + pass).
+		Création d'un robot
+			Form info générales (nom, couleur)
+			!Upload du code
+				!Validation du code
+		Mise a jour du robots
+			Form info générales (couleur)
+			Upload du code
+				Validation du code
+		Liste des robots adverses
+			Choix d'un adversaire
+			Match
+		Historique des matchs
+			Encart "un match en cours".
+			*Accé à la représentation Flash du match
+
+Projet:
+	rtb-online
+	http://sqldesigner.emilie.dev.oblady.com/ : rtbonline
+	Main : http://github.com/Atchoum/rtb-online
+	Seb : 
